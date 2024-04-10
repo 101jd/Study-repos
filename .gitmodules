@@ -13,3 +13,6 @@
 [submodule "version_control"]
 	path = version_control
 	url = https://github.com/101jd/version_control.git
+[submodule "GitInstructionWorkshop_2024_02_04"]
+	path = GitInstructionWorkshop_2024_02_04
+	url = https://github.com/101jd/GitInstructionWorkshop_2024_02_04.git
