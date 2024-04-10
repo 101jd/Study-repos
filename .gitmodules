@@ -1,3 +1,6 @@
 [submodule "gblessons1"]
 	path = gblessons1
 	url = https://github.com/101jd/gblessons1.git
+[submodule "GBCheck"]
+	path = GBCheck
+	url = https://github.com/101jd/GBCheck.git
