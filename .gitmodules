@@ -10,3 +10,6 @@
 [submodule "remote"]
 	path = remote
 	url = https://github.com/101jd/remote.git
+[submodule "version_control"]
+	path = version_control
+	url = https://github.com/101jd/version_control.git
