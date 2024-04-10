@@ -4,3 +4,6 @@
 [submodule "GBCheck"]
 	path = GBCheck
 	url = https://github.com/101jd/GBCheck.git
+[submodule "GBCourse"]
+	path = GBCourse
+	url = https://github.com/101jd/GBCourse.git
